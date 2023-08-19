@@ -1,0 +1,2 @@
+# WordWise
+A dictionary webapp
